@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281266549015",
+    "project_id": "auth-test-ed27b",
+    "storage_bucket": "auth-test-ed27b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281266549015:android:7bf93170e38614df14c752",
+        "android_client_info": {
+          "package_name": "com.example.auth_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281266549015-8ivpdbj3llomf1kge5654j8nghodkvhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyIyr0EVAe4_QR5nh1VJwlNYLk7G59YXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281266549015-8ivpdbj3llomf1kge5654j8nghodkvhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
